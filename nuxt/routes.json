@@ -1,0 +1,23 @@
+[
+  {
+    "name": "invoice",
+    "path": "/invoice",
+    "component": "C:\\\\NuxtJs\\\\my-nuxt-app\\\\pages\\\\invoice.vue",
+    "chunkName": "pages/invoice",
+    "_name": "_3e5c53e0"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "C:\\\\NuxtJs\\\\my-nuxt-app\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "_name": "_057c08c1"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\NuxtJs\\\\my-nuxt-app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_53c849c5"
+  }
+]
